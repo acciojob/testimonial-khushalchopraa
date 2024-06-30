@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+     Background-color: #f5f5f5;
+}
+.Testimonial{
+	padding: 20px;
+	border: 1px solid black;
+	Background-color: white;
+	margin-bottom: 10px;
+	border-radius: 20px;
+	width: 580px;
+	margin-left: 20px;
+	font-size: 13px;
+}
+.Author{
+	text-align: right ;
+	font-style: italic;
+}
